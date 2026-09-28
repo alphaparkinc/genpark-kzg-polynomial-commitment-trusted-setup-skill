@@ -1,0 +1,6 @@
+name: genpark-kzg-polynomial-commitment-trusted-setup-skill
+version: 1.0.0
+description: Kate-Zaverucha-Goldberg (KZG) polynomial commitment evaluator with evaluation proofs
+command: python
+args:
+  - mcp_server.py
