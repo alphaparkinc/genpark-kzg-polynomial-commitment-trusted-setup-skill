@@ -1,0 +1,20 @@
+{
+  "name": "genpark-kzg-polynomial-commitment-trusted-setup-skill",
+  "version": "1.0.0",
+  "description": "Kate-Zaverucha-Goldberg (KZG) polynomial commitment evaluator with evaluation proofs",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "kzg-commitments",
+    "kate-commitments",
+    "polynomial-commitment",
+    "srs",
+    "zero-knowledge",
+    "python-standard-library",
+    "agent-skills",
+    "trusted-setup",
+    "cryptography",
+    "plonk-kzg"
+  ]
+}
